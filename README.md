@@ -4,7 +4,7 @@
 
 # This is an classification type of problem, here we have to predict incident in the form of high medium and low form.
 
-# I have do knn imputation handle missing values in dataset. 
+# Did knn imputation handle missing values in dataset. 
 
 # And Do some feature engineering and feature selection and finally deployment model to various classification algorithm
 
